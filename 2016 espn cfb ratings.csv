@@ -1,0 +1,135 @@
+﻿RK,TEAM,OFFENSE,DEFENSE,SPECIAL TMS,OVERALL
+1,"Alabama, SEC",70.8,97.4,56.2,93.5
+2,"Washington, Pac-12",81.6,85.4,56.6,89.3
+3,"Michigan, Big Ten",73.7,87.4,74.8,88.9
+4,"Clemson, ACC",81.8,82.9,47,87.1
+5,"OSU, Big Ten",70.7,88.5,48.6,85.2
+6,"LSU, SEC",73.2,86.7,32.4,82.9
+7,"Oklahoma, Big 12",92.1,59.1,41.1,82.8
+8,"FSU, ACC",80.8,75.6,32.4,80.6
+9,"USC, Pac-12",78.1,68.5,64.2,80.6
+10,"Louisville, ACC",80.3,74.6,35.4,80.1
+11,"Wisconsin, Big Ten",63.8,85.5,45.5,79.3
+12,"Miami, ACC",66.1,75,67.5,78.1
+13,"Kansas State, Big 12",72.1,68.5,67.8,77.5
+14,"Stanford, Pac-12",54.4,77.2,79.5,76.1
+15,"Auburn, SEC",63.2,73.3,62.4,74.6
+16,"W Michigan, MAC",79.1,55.8,54.1,74.2
+17,"Colorado, Pac-12",61.3,82.2,33.3,73.6
+18,"W Kentucky, C-USA",79.9,54.3,62.3,73.6
+19,"Penn State, Big Ten",71.2,63.3,61,72.6
+20,"Florida, SEC",39.1,87.2,64.7,72.4
+RK,TEAM,OFFENSE,DEFENSE,SPECIAL TMS,OVERALL
+21,"Oklahoma State, Big 12",74.8,56.6,61.4,71.4
+22,"VT, ACC",55.4,76.1,58.5,71.1
+23,"UNC, ACC",74.2,52,67.8,69.7
+24,"Pitt, ACC",82.7,46,56.2,69.7
+25,"Texas A&M, SEC",64.8,63,63.2,69.4
+26,"Boise State, MW",69.4,66.5,33.4,68.9
+27,"NC State, ACC",59.6,71.7,35.8,66.9
+28,"West Virginia, Big 12",64.8,67.9,32.1,66.8
+29,"Washington St, Pac-12",67.9,55.7,53.1,65.8
+30,"Iowa, Big Ten",51.4,66.3,69.5,65.5
+31,"Temple, American",60,60.8,63.6,65.4
+32,"San Diego State, MW",45.9,72.2,67.3,65.3
+33,"Tennessee, SEC",71.4,51.5,57.8,65.2
+34,"USF, American",78,48.5,44,64.9
+35,"Houston, American",55.4,68.2,53.4,64.5
+36,"BYU, FBS Indep.",48.3,68.2,72.6,64.5
+37,"Utah, Pac-12",48.7,66.9,73.3,64.1
+38,"Tulsa, American",64.1,58.9,42.5,62.8
+39,"Georgia Tech, ACC",71.3,43.9,65.6,62
+40,"Northwestern, Big Ten",55.2,63.7,50.1,61.7
+RK,TEAM,OFFENSE,DEFENSE,SPECIAL TMS,OVERALL
+41,"LA Tech, C-USA",79,36.8,52.1,61.5
+42,"Appalachian St, Sun Belt",52.1,64.2,56.9,61.1
+43,"Minnesota, Big Ten",43.3,68.6,65.1,61.1
+44,"Ole Miss, SEC",69.4,47.1,50.1,60.6
+45,"Memphis, American",60.6,44.3,83.4,60.5
+46,"Baylor, Big 12",55.2,60,45.8,58.8
+47,"TCU, Big 12",53.1,59.1,55.3,58.5
+48,"Arkansas, SEC",62.1,45.8,62.2,58.2
+49,"UCLA, Pac-12",40.1,75.4,32.4,58.1
+50,"Notre Dame, FBS Indep.",58.9,57.5,38.1,57.7
+51,"Georgia, SEC",46.3,71.9,35,57.4
+52,"Navy, American",79.7,29.7,56.1,57.2
+53,"Toledo, MAC",71,40.4,44.6,56.9
+54,"Texas, Big 12",48.4,61.2,51.6,56.1
+55,"Nebraska, Big Ten",54.6,53.3,55.6,56.1
+56,"Texas Tech, Big 12",79.2,25.2,45,55.6
+57,"Troy, Sun Belt",38.9,64.3,61.4,54.1
+58,"Wake Forest, ACC",32.4,71,56.8,53.9
+59,"Vanderbilt, SEC",46.1,62.2,40.7,53.2
+60,"Miss St, SEC",63.1,40.9,49.8,52.5
+RK,TEAM,OFFENSE,DEFENSE,SPECIAL TMS,OVERALL
+61,"Air Force, MW",50.3,45.5,62.3,50.2
+62,"Oregon, Pac-12",73.9,30.5,39.9,50.1
+63,"Kentucky, SEC",56.4,42.6,52.6,49.7
+64,"Wyoming, MW",53.2,49.3,40.4,49.4
+65,"Colorado State, MW",62.4,34.1,52.6,48.6
+66,"Cal, Pac-12",69.1,26.3,51.8,48.2
+67,"Old Dominion, C-USA",56.6,42.5,42.1,47.9
+68,"Iowa State, Big 12",55.2,36.1,68.9,47.8
+69,"Duke, ACC",49.2,52.7,33.8,47.7
+70,"Indiana, Big Ten",39.3,60.9,37.5,47.1
+71,"Boston College, ACC",21.9,73.9,54.9,47.1
+72,"Michigan State, Big Ten",52.4,41.7,50.6,46.6
+73,"UCF, American",21.6,71.8,55.7,46.2
+74,"Oregon State, Pac-12",40.3,52.8,45.9,45.3
+75,"Maryland, Big Ten",47.5,40.2,64.4,44.8
+76,"Arkansas State, Sun Belt",28.7,63.2,49.6,44.8
+77,"Army, FBS Indep.",43.9,53.2,33,44.3
+78,"Missouri, SEC",48.6,40.2,57.1,44.3
+79,"South Carolina, SEC",33.4,57.1,48.4,44.2
+80,"Ohio, MAC",31.8,53.7,61.6,43.1
+RK,TEAM,OFFENSE,DEFENSE,SPECIAL TMS,OVERALL
+81,"New Mexico, MW",61.2,26.4,54.7,42.6
+82,"Mid Tennessee, C-USA",61,32.4,38.2,42.5
+83,"SMU, American",39.7,55.3,29.3,42.2
+84,"Arizona State, Pac-12",37,43.4,62.4,40.9
+85,"Syracuse, ACC",52.2,33.6,45.3,40.9
+86,"Idaho, Sun Belt",42.7,34,74.2,40.8
+87,"N Illinois, MAC",42.5,36.3,54.8,37.9
+88,"UVA, ACC",33.2,46,53.9,37.9
+89,"Utah State, MW",36.2,45.7,40.3,37.3
+90,"Arizona, Pac-12",56.2,31.5,29.6,37
+91,"Cincinnati, American",30.4,48.9,46.2,36.8
+92,"E Michigan, MAC",40.2,34.9,58.6,36.4
+93,"Tulane, American",26.1,56.7,37.1,36.1
+94,"Ga Southern, Sun Belt",34.9,36.1,67.8,35.9
+95,"Southern Miss, C-USA",36.1,46.4,37.8,35.9
+96,"UTSA, C-USA",33.6,39.1,58.7,34.8
+97,"Miami (OH), MAC",32.9,44.5,40.9,34.5
+98,"Cent Michigan, MAC",35,42,39.4,33.8
+99,"Louisiana, Sun Belt",28.4,44.2,48.3,32.6
+100,"Hawai'i, MW",34.7,33.8,52.8,31.4
+RK,TEAM,OFFENSE,DEFENSE,SPECIAL TMS,OVERALL
+101,"Ball State, MAC",36.4,32.4,51,31
+102,"ECU, American",44.1,28.2,33.6,30.4
+103,"Illinois, Big Ten",27.4,43,38.1,30.4
+104,"Akron, MAC",37.8,27.2,51,28.2
+105,"Georgia State, Sun Belt",25,48.7,19.6,28.1
+106,"Nevada, MW",41.9,23.6,48.2,27.7
+107,"UNLV, MW",46,23,37,27.5
+108,"Kent State, MAC",16.4,48.9,43.4,27.3
+109,"North Texas, C-USA",26,34.7,54.8,27.1
+110,"South Alabama, Sun Belt",32.4,31.8,38.1,26.3
+111,"Purdue, Big Ten",36.3,27.4,39.7,26.2
+112,"Kansas, Big 12",15.7,51.3,37.2,25.2
+113,"San Jose State, MW",28.8,29.9,41.3,23.7
+114,"UMass, FBS Indep.",32,28.7,35.6,23.7
+115,"Bowling Green, MAC",26.5,29.6,47.7,23.1
+116,"UConn, American",21.2,31,48.4,21.2
+117,"Rutgers, Big Ten",16,41.2,37.6,21
+118,"Fresno State, MW",14.9,37.8,52.4,20.7
+119,"Charlotte, C-USA",20.7,31.7,44.5,20.4
+120,"New Mexico St, Sun Belt",29.1,26.6,29.7,20.2
+RK,TEAM,OFFENSE,DEFENSE,SPECIAL TMS,OVERALL
+121,"FAU, C-USA",34.6,15.3,58.3,19.8
+122,"UL Monroe, Sun Belt",31.2,19.5,46.6,19.6
+123,"Rice, C-USA",27.3,19,49.1,18.2
+124,"Marshall, C-USA",21,22.7,60.3,18
+125,"UTEP, C-USA",31.3,17.4,45.5,18
+126,"FIU, C-USA",19.4,26.4,50.3,17.9
+127,"Buffalo, MAC",12.7,32.9,30.2,14
+128,"Texas State, Sun Belt",18.7,13,31.8,8.9
